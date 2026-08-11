@@ -22,5 +22,5 @@
 
 ## Pirmas prašymas agentui
 
-> Naudok `$workspace-onboarding`, peržiūrėk šią tuščią darbo erdvę ir padėk man ją užpildyti tik
+> Naudok `/workspace-onboarding`, peržiūrėk šią tuščią darbo erdvę ir padėk man ją užpildyti tik
 > patvirtintais faktais. Jokių išorinių pakeitimų nedaryk.

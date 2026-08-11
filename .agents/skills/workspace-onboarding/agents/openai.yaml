@@ -1,4 +1,0 @@
-interface:
-  display_name: "Darbo erdvės pradžia"
-  short_description: "Paruošia saugią asmeninę darbo erdvę"
-  default_prompt: "Use $workspace-onboarding to prepare this workspace for my work."
