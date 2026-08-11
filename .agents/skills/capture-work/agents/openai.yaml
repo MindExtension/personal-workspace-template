@@ -1,0 +1,4 @@
+interface:
+  display_name: "Darbo fiksavimas"
+  short_description: "Paverčia mintis užduotimis ir sprendimais"
+  default_prompt: "Use $capture-work to turn these notes into structured workspace items."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saugi dokumentų peržiūra"
+  short_description: "Analizuoja dokumentus nekeisdamas originalų"
+  default_prompt: "Use $safe-document-review to inspect these documents safely."

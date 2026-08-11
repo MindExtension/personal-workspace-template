@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saugus išsaugojimas"
+  short_description: "Saugiai išsaugo ir atiduoda pakeitimus"
+  default_prompt: "Use $save-work-safely to save and share my current changes safely."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Susitikimo pasiruošimas"
+  short_description: "Paruošia darbotvarkę ir sprendimų klausimus"
+  default_prompt: "Use $meeting-prep to prepare this meeting from workspace evidence."

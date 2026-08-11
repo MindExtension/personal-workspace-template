@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tyrimo santrauka"
+  short_description: "Rengia šaltiniais pagrįstas tyrimų santraukas"
+  default_prompt: "Use $research-brief to research this question and cite the sources."

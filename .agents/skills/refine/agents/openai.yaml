@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rezultato gerinimas"
+  short_description: "Iteratyviai gerina bet kokį darbo rezultatą"
+  default_prompt: "Use $refine to review and improve this artifact in structured passes."

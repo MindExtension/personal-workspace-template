@@ -1,0 +1,4 @@
+interface:
+  display_name: "Projekto būsena"
+  short_description: "Parodo įrodymais pagrįstą projekto būseną"
+  default_prompt: "Use $project-status to report the verified state of this project."
