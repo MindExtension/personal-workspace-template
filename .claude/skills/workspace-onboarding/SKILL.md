@@ -5,7 +5,8 @@ description: Paruošti naują asmeninę darbo erdvę iš šablono, nustatyti jos
 
 # Darbo erdvės paruošimas
 
-1. Perskaityti `AGENTS.md`, `PRADEK-CIA.md`, `DARBO-ERDVE.md`, `PROJEKTAI.md` ir `BACKLOG.md`.
+1. Perskaityti `.claude/CLAUDE.md`, `PRADEK-CIA.md`, `DARBO-ERDVE.md`, `PROJEKTAI.md` ir
+   `BACKLOG.md`.
 2. Patikrinti `git status --short` ir repozitorijaus matomumą. Jei bus asmeninių duomenų, darbo erdvė
    turi būti privati.
 3. Paprašyti tik trūkstamų sprendimų: savininko, paskirties, pirmo projekto rezultato ir išorinių

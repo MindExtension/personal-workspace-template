@@ -16,7 +16,8 @@ pakartojamos darbo eigos.
 - `SPRENDIMAI.md`, sprendimų ir jų pagrindo žurnalas.
 - `projektai/`, atskiros projektų zonos.
 - `sablonai/`, neutralūs dokumentų ruošiniai.
-- `.agents/skills/`, Codex įgūdžiai kasdieniam darbui.
+- `.claude/CLAUDE.md`, visada galiojančios Claude Code darbo taisyklės.
+- `.claude/skills/`, Claude Code įgūdžiai kasdieniam darbui.
 
 ## Kaip naudoti
 

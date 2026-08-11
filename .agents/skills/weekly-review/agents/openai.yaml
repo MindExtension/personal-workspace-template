@@ -1,4 +1,0 @@
-interface:
-  display_name: "Savaitės peržiūra"
-  short_description: "Surenka savaitės būseną ir prioritetus"
-  default_prompt: "Use $weekly-review to prepare my weekly review."
